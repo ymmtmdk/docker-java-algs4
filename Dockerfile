@@ -37,4 +37,3 @@ RUN groupadd --system --gid 1000 worker \
 USER worker
 WORKDIR /home/worker
 
-
